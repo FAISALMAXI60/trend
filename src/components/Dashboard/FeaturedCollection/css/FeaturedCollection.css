@@ -1,0 +1,43 @@
+.FC_title_div{
+    text-align: center;
+    font-family:'Old Standard TT';
+    /* color:#0056b3; */
+    height: auto;
+    padding: 50px;
+}
+.Featured_collect_main_div{
+    margin: auto;
+    width: 90%;
+    box-sizing: border-box;
+}
+.FC_title_div h1 hr{
+    width: 15%;
+    background-color:#0056b3;
+}
+.FC_Most_Main_Div{
+    position: relative;
+}
+.FC_title_div h1{
+    color: #0056b3;
+}
+.Men_Column .Men_title{
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    z-index: 1000;
+    font-size: 24px;
+    font-family: serif;
+    /* font-weight: bold; */
+    color: white;
+}
+.Women_Column .Women_title{
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    z-index: 1000;
+    font-size: 24px;
+    font-family: serif;
+    /* font-weight: bold; */
+    color: white;
+}
+

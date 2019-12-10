@@ -1,0 +1,14 @@
+.FeaturedProducts_title_div{
+    text-align: center;
+    font-family: 'Old Standard TT';
+    /* color:#0056b3; */
+    height: auto;
+    padding: 50px;
+}
+.FeaturedProducts_title_div h1 hr{
+    background-color:#0056b3 ;
+    width: 15%;
+}
+.FeaturedProducts_title_div h1{
+    color: #0056b3;
+}

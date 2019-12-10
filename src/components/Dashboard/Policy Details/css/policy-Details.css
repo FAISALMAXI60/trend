@@ -1,0 +1,26 @@
+.PD_Main_Component{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: center;
+   text-align: center;
+   font-family: Old Standard TT;
+   font-weight: bold;
+   padding: 10px;
+   color: #0056b3;
+}
+.PD_Delivery_Div{
+    width: 33%;
+    border-right: 1px solid #0056b3;
+}
+.PD_ReturnPolicy_div{
+    width: 33%;
+    border-right: 1px solid #0056b3;
+
+}
+.PD_exchange_div{
+    width: 33%;
+}
+.PD_Most_Main_div hr{
+    background-color: #0056b3
+}
